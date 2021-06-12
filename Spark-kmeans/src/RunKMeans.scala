@@ -1,10 +1,4 @@
-/*
- * Copyright 2015 and onwards Sanford Ryza, Uri Laserson, Sean Owen and Joshua Wills
- *
- * See LICENSE file for further information.
- */
-
-package com.cloudera.datascience.kmeans
+package com.cloudera
 
 import org.apache.spark.ml.{PipelineModel, Pipeline}
 import org.apache.spark.ml.clustering.{KMeans, KMeansModel}
